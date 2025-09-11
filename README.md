@@ -32,13 +32,21 @@
 <br>
 
 <div>
-<h4>📍Site</h4>
-<a href="https://www.youtube.com/channel/UCep8VHRp4iU4-VxC-OksyIw" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/>
-</a>
-&nbsp;
-<sub>
-  <a href="https://www.youtube.com/channel/UCep8VHRp4iU4-VxC-OksyIw" target="_blank"> YouTube 바로가기
+  <h4>📍Site</h4>
+  <a href="https://www.youtube.com/channel/UCep8VHRp4iU4-VxC-OksyIw" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/>
   </a>
-</sub>
+  &nbsp;
+  <sub>
+    <a href="https://www.youtube.com/channel/UCep8VHRp4iU4-VxC-OksyIw" target="_blank"> YouTube 바로가기 </a>
+  </sub>
+  
+  <br/>
+  <a href="https://tjsalsdl0602.tistory.com" target="_blank">
+    <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white"/>
+  </a>
+  &nbsp;
+  <sub>
+    <a href="https://tjsalsdl0602.tistory.com" target="_blank"> Tistory 바로가기 </a>
+  </sub>
 </div>
